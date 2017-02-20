@@ -15,7 +15,7 @@ Após instalar a extensão, entre no <a href="https://discord.me/move-it" target
 <br/>
 
 <div>
-Abaixo de adicionar estilo, escreva um nome para o tema, deixe marcado a caixinha <b>"Ativado"</b> e na parte da direita em <b>"Seções"</b>, cole esse código <pre><code>@import url('https://rawgit.com/Shadow-Slayer/Discord/master/MIB.css');</code></pre>
+Abaixo de adicionar estilo, escreva um nome para o tema, deixe marcado a caixinha <b>"Ativado"</b> e na parte da direita em <b>"Seções"</b>, cole esse código <pre><code>@import url('https://moveit-brasil.github.io/discord/MIB.css');</code></pre>
 </div>
 
 <br/>
