@@ -13,7 +13,7 @@ Inicie o APP Discord em seu computador, se a instalação deu certo ao acessar a
 
 <br/>
 
-<div>Ao clicar no menu <b>BetterDiscord,</b> abrirá a janela conforme imagem abaixo, clique na aba <b>Custom CSS,</b>&nbsp;e cole o código <pre><code>@import url('https://rawgit.com/Shadow-Slayer/Discord/master/MIB.css');</code></pre></div>
+<div>Ao clicar no menu <b>BetterDiscord,</b> abrirá a janela conforme imagem abaixo, clique na aba <b>Custom CSS,</b>&nbsp;e cole o código <pre><code>@import url('https://moveit-brasil.github.io/discord/MIB.css');</code></pre></div>
 
 <br/>
 
